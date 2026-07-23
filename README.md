@@ -90,11 +90,11 @@ LeetCode-100Days-Java/
 
 | Category | Count |
 |----------|------:|
-| Total Problems Solved | 0 |
-| Easy | 0 |
+| Total Problems Solved | 2 |
+| Easy | 2 |
 | Medium | 0 |
 | Hard | 0 |
-| Current Streak | Day 0 |
+| Current Streak | Day 1 |
 
 > Repository statistics will be updated as I progress through the challenge.
 
@@ -102,15 +102,33 @@ LeetCode-100Days-Java/
 
 # 📅 Progress Tracker
 
-| Day | Problems Solved | Status |
-|------|----------------|--------|
-| Day 01 | 0 | ⏳ |
-| Day 02 | 0 | ⏳ |
-| Day 03 | 0 | ⏳ |
-| Day 04 | 0 | ⏳ |
-| Day 05 | 0 | ⏳ |
+| Day | Problems Solved | Topics | Status |
+|------|----------------|------------------|--------|
+| Day 01 | 2 | Bit Manipulation | ✅ |
+| Day 02 | - | - | ⏳ |
+| Day 03 | - | - | ⏳ |
+| Day 04 | - | - | ⏳ |
+| Day 05 | - | - | ⏳ |
 
 > Daily progress is available inside the **Progress** folder.
+
+---
+
+# 🚀 Latest Progress
+
+## ✅ Day 01
+
+### Problems Solved
+
+- 231. Power of Two (Easy)
+- 326. Power of Three (Easy)
+
+### Topics
+
+- Bit Manipulation
+- Math
+
+➡️ **Detailed Notes:** [Progress/Day01.md](Progress/Day01.md)
 
 ---
 
