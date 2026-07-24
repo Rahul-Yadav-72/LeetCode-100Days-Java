@@ -90,11 +90,11 @@ LeetCode-100Days-Java/
 
 | Category | Count |
 |----------|------:|
-| Total Problems Solved | 2 |
-| Easy | 2 |
+| Total Problems Solved | 4 |
+| Easy | 4 |
 | Medium | 0 |
 | Hard | 0 |
-| Current Streak | Day 1 |
+| Current Streak | Day 2 |
 
 > Repository statistics will be updated as I progress through the challenge.
 
@@ -103,9 +103,9 @@ LeetCode-100Days-Java/
 # 📅 Progress Tracker
 
 | Day | Problems Solved | Topics | Status |
-|------|----------------|------------------|--------|
-| Day 01 | 2 | Bit Manipulation | ✅ |
-| Day 02 | - | - | ⏳ |
+|------|----------------|-------------------------|--------|
+| Day 01 | 2 | Bit Manipulation, Math | ✅ |
+| Day 02 | 2 | Dynamic Programming | ✅ |
 | Day 03 | - | - | ⏳ |
 | Day 04 | - | - | ⏳ |
 | Day 05 | - | - | ⏳ |
@@ -116,17 +116,29 @@ LeetCode-100Days-Java/
 
 # 🚀 Latest Progress
 
-## ✅ Day 01
+# 🚀 Latest Progress
+
+## ✅ Day 02
 
 ### Problems Solved
 
-- 231. Power of Two (Easy)
-- 326. Power of Three (Easy)
+- 509. Fibonacci Number (Easy)
+- 1137. N-th Tribonacci Number (Easy)
 
 ### Topics
 
-- Bit Manipulation
-- Math
+- Dynamic Programming
+
+➡️ **Detailed Notes:** [Progress/Day02.md](Progress/Day02.md)
+
+---
+
+### 📌 Previous Progress
+
+#### ✅ Day 01
+
+- 231. Power of Two (Easy)
+- 326. Power of Three (Easy)
 
 ➡️ **Detailed Notes:** [Progress/Day01.md](Progress/Day01.md)
 
