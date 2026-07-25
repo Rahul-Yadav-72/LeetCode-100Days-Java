@@ -52,8 +52,14 @@ LeetCode-100Days-Java/
 │   └── Matrix/
 │
 ├── Progress/
+│   ├── Day01.md
+│   ├── Day02.md
+│   └── Day03.md
 │
 ├── Images/
+│   ├── Day01/
+│   ├── Day02/
+│   └── Day03/
 │
 ├── README.md
 ├── LICENSE
@@ -88,13 +94,13 @@ LeetCode-100Days-Java/
 
 # 📊 Repository Stats
 
-| Category | Count |
-|----------|------:|
-| Total Problems Solved | 4 |
-| Easy | 4 |
-| Medium | 0 |
-| Hard | 0 |
-| Current Streak | Day 2 |
+| Category              | Count |
+| --------------------- | ----: |
+| Total Problems Solved |     6 |
+| Easy                  |     5 |
+| Medium                |     0 |
+| Hard                  |     1 |
+| Current Streak        | Day 3 |
 
 > Repository statistics will be updated as I progress through the challenge.
 
@@ -102,13 +108,13 @@ LeetCode-100Days-Java/
 
 # 📅 Progress Tracker
 
-| Day | Problems Solved | Topics | Status |
-|------|----------------|-------------------------|--------|
-| Day 01 | 2 | Bit Manipulation, Math | ✅ |
-| Day 02 | 2 | Dynamic Programming | ✅ |
-| Day 03 | - | - | ⏳ |
-| Day 04 | - | - | ⏳ |
-| Day 05 | - | - | ⏳ |
+| Day    | Problems Solved | Topics                 | Status |
+| ------ | --------------- | ---------------------- | ------ |
+| Day 01 | 2               | Bit Manipulation, Math | ✅     |
+| Day 02 | 2               | Dynamic Programming    | ✅     |
+| Day 03 | 2               | Arrays                 | ✅     |
+| Day 04 | -               | -                      | ⏳     |
+| Day 05 | -               | -                      | ⏳     |
 
 > Daily progress is available inside the **Progress** folder.
 
@@ -116,24 +122,29 @@ LeetCode-100Days-Java/
 
 # 🚀 Latest Progress
 
-# 🚀 Latest Progress
-
-## ✅ Day 02
+## ✅ Day 03
 
 ### Problems Solved
 
-- 509. Fibonacci Number (Easy)
-- 1137. N-th Tribonacci Number (Easy)
+- 4. Median of Two Sorted Arrays (Hard)
+- 1464. Maximum Product of Two Elements in an Array (Easy)
 
 ### Topics
 
-- Dynamic Programming
+- Arrays
 
-➡️ **Detailed Notes:** [Progress/Day02.md](Progress/Day02.md)
+➡️ **Detailed Notes:** [Progress/Day03.md](Progress/Day03.md)
 
 ---
 
 ### 📌 Previous Progress
+
+#### ✅ Day 02
+
+- 509. Fibonacci Number (Easy)
+- 1137. N-th Tribonacci Number (Easy)
+
+➡️ **Detailed Notes:** [Progress/Day02.md](Progress/Day02.md)
 
 #### ✅ Day 01
 
@@ -172,8 +183,8 @@ Example:
 
 ```text
 Problems/
-└── BitManipulation/
-    └── PowerOfTwo.java
+└── Arrays/
+    └── MedianOfTwoSortedArrays_4.java
 ```
 
 ---
