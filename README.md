@@ -54,12 +54,14 @@ LeetCode-100Days-Java/
 ├── Progress/
 │   ├── Day01.md
 │   ├── Day02.md
-│   └── Day03.md
+│   ├── Day03.md
+│   └── Day04.md
 │
 ├── Images/
 │   ├── Day01/
 │   ├── Day02/
-│   └── Day03/
+│   ├── Day03/
+│   └── Day04/
 │
 ├── README.md
 ├── LICENSE
@@ -96,11 +98,11 @@ LeetCode-100Days-Java/
 
 | Category              | Count |
 | --------------------- | ----: |
-| Total Problems Solved |     6 |
-| Easy                  |     5 |
+| Total Problems Solved |     8 |
+| Easy                  |     7 |
 | Medium                |     0 |
 | Hard                  |     1 |
-| Current Streak        | Day 3 |
+| Current Streak        | Day 4 |
 
 > Repository statistics will be updated as I progress through the challenge.
 
@@ -108,13 +110,13 @@ LeetCode-100Days-Java/
 
 # 📅 Progress Tracker
 
-| Day    | Problems Solved | Topics                 | Status |
-| ------ | --------------- | ---------------------- | ------ |
-| Day 01 | 2               | Bit Manipulation, Math | ✅     |
-| Day 02 | 2               | Dynamic Programming    | ✅     |
-| Day 03 | 2               | Arrays                 | ✅     |
-| Day 04 | -               | -                      | ⏳     |
-| Day 05 | -               | -                      | ⏳     |
+| Day    | Problems Solved | Topics                     | Status |
+| ------ | --------------- | -------------------------- | ------ |
+| Day 01 | 2               | Bit Manipulation, Math     | ✅     |
+| Day 02 | 2               | Dynamic Programming        | ✅     |
+| Day 03 | 2               | Arrays                     | ✅     |
+| Day 04 | 2               | Arrays, Two Pointers, Math | ✅     |
+| Day 05 | -               | -                          | ⏳     |
 
 > Daily progress is available inside the **Progress** folder.
 
@@ -122,22 +124,31 @@ LeetCode-100Days-Java/
 
 # 🚀 Latest Progress
 
-## ✅ Day 03
+## ✅ Day 04
 
 ### Problems Solved
 
-- 4. Median of Two Sorted Arrays (Hard)
-- 1464. Maximum Product of Two Elements in an Array (Easy)
+- 27. Remove Element (Easy)
+- 268. Missing Number (Easy)
 
 ### Topics
 
 - Arrays
+- Two Pointers
+- Math
 
-➡️ **Detailed Notes:** [Progress/Day03.md](Progress/Day03.md)
+➡️ **Detailed Notes:** [Progress/Day04.md](Progress/Day04.md)
 
 ---
 
 ### 📌 Previous Progress
+
+#### ✅ Day 03
+
+- 4. Median of Two Sorted Arrays (Hard)
+- 1464. Maximum Product of Two Elements in an Array (Easy)
+
+➡️ **Detailed Notes:** [Progress/Day03.md](Progress/Day03.md)
 
 #### ✅ Day 02
 
@@ -184,7 +195,7 @@ Example:
 ```text
 Problems/
 └── Arrays/
-    └── MedianOfTwoSortedArrays_4.java
+    └── RemoveElement_27.java
 ```
 
 ---
