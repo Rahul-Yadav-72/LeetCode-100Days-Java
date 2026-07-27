@@ -55,13 +55,15 @@ LeetCode-100Days-Java/
 │   ├── Day01.md
 │   ├── Day02.md
 │   ├── Day03.md
-│   └── Day04.md
+│   ├── Day04.md
+│   └── Day05.md
 │
 ├── Images/
 │   ├── Day01/
 │   ├── Day02/
 │   ├── Day03/
-│   └── Day04/
+│   ├── Day04/
+│   └── Day05/
 │
 ├── README.md
 ├── LICENSE
@@ -96,13 +98,13 @@ LeetCode-100Days-Java/
 
 # 📊 Repository Stats
 
-| Category              | Count |
-| --------------------- | ----: |
-| Total Problems Solved |     8 |
-| Easy                  |     7 |
-| Medium                |     0 |
-| Hard                  |     1 |
-| Current Streak        | Day 4 |
+| Category | Count |
+|----------|------:|
+| Total Problems Solved | 10 |
+| Easy | 8 |
+| Medium | 1 |
+| Hard | 1 |
+| Current Streak | Day 5 |
 
 > Repository statistics will be updated as I progress through the challenge.
 
@@ -110,13 +112,14 @@ LeetCode-100Days-Java/
 
 # 📅 Progress Tracker
 
-| Day    | Problems Solved | Topics                     | Status |
-| ------ | --------------- | -------------------------- | ------ |
-| Day 01 | 2               | Bit Manipulation, Math     | ✅     |
-| Day 02 | 2               | Dynamic Programming        | ✅     |
-| Day 03 | 2               | Arrays                     | ✅     |
-| Day 04 | 2               | Arrays, Two Pointers, Math | ✅     |
-| Day 05 | -               | -                          | ⏳     |
+| Day | Problems Solved | Topics | Status |
+|------|----------------|-----------------------------|--------|
+| Day 01 | 2 | Bit Manipulation, Math | ✅ |
+| Day 02 | 2 | Dynamic Programming | ✅ |
+| Day 03 | 2 | Arrays | ✅ |
+| Day 04 | 2 | Arrays, Two Pointers, Math | ✅ |
+| Day 05 | 2 | Two Pointers | ✅ |
+| Day 06 | - | - | ⏳ |
 
 > Daily progress is available inside the **Progress** folder.
 
@@ -124,24 +127,30 @@ LeetCode-100Days-Java/
 
 # 🚀 Latest Progress
 
-## ✅ Day 04
+## ✅ Day 05
 
 ### Problems Solved
 
-- 27. Remove Element (Easy)
-- 268. Missing Number (Easy)
+- 167. Two Sum II - Input Array Is Sorted (Medium)
+- 977. Squares of a Sorted Array (Easy)
 
 ### Topics
 
-- Arrays
 - Two Pointers
-- Math
+- Arrays
 
-➡️ **Detailed Notes:** [Progress/Day04.md](Progress/Day04.md)
+➡️ **Detailed Notes:** [Progress/Day05.md](Progress/Day05.md)
 
 ---
 
 ### 📌 Previous Progress
+
+#### ✅ Day 04
+
+- 27. Remove Element (Easy)
+- 268. Missing Number (Easy)
+
+➡️ **Detailed Notes:** [Progress/Day04.md](Progress/Day04.md)
 
 #### ✅ Day 03
 
@@ -194,8 +203,9 @@ Example:
 
 ```text
 Problems/
-└── Arrays/
-    └── RemoveElement_27.java
+└── TwoPointers/
+    ├── TwoSumII_167.java
+    └── SortedSquares_977.java
 ```
 
 ---
@@ -247,3 +257,4 @@ It motivates me to continue learning and sharing my progress.
 <p align="center">
   <b>Happy Coding! 🚀</b>
 </p>
+```
