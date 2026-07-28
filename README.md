@@ -56,14 +56,16 @@ LeetCode-100Days-Java/
 │   ├── Day02.md
 │   ├── Day03.md
 │   ├── Day04.md
-│   └── Day05.md
+│   ├── Day05.md
+│   └── Day06.md
 │
 ├── Images/
 │   ├── Day01/
 │   ├── Day02/
 │   ├── Day03/
 │   ├── Day04/
-│   └── Day05/
+│   ├── Day05/
+│   └── Day06/
 │
 ├── README.md
 ├── LICENSE
@@ -98,13 +100,13 @@ LeetCode-100Days-Java/
 
 # 📊 Repository Stats
 
-| Category | Count |
-|----------|------:|
-| Total Problems Solved | 10 |
-| Easy | 8 |
-| Medium | 1 |
-| Hard | 1 |
-| Current Streak | Day 5 |
+| Category              | Count |
+| --------------------- | ----: |
+| Total Problems Solved |    10 |
+| Easy                  |     8 |
+| Medium                |     1 |
+| Hard                  |     1 |
+| Current Streak        | Day 5 |
 
 > Repository statistics will be updated as I progress through the challenge.
 
@@ -112,14 +114,15 @@ LeetCode-100Days-Java/
 
 # 📅 Progress Tracker
 
-| Day | Problems Solved | Topics | Status |
-|------|----------------|-----------------------------|--------|
-| Day 01 | 2 | Bit Manipulation, Math | ✅ |
-| Day 02 | 2 | Dynamic Programming | ✅ |
-| Day 03 | 2 | Arrays | ✅ |
-| Day 04 | 2 | Arrays, Two Pointers, Math | ✅ |
-| Day 05 | 2 | Two Pointers | ✅ |
-| Day 06 | - | - | ⏳ |
+| Day    | Problems Solved | Topics                     | Status |
+| ------ | --------------- | -------------------------- | ------ |
+| Day 01 | 2               | Bit Manipulation, Math     | ✅     |
+| Day 02 | 2               | Dynamic Programming        | ✅     |
+| Day 03 | 2               | Arrays                     | ✅     |
+| Day 04 | 2               | Arrays, Two Pointers, Math | ✅     |
+| Day 05 | 2               | Two Pointers               | ✅     |
+| Day 06 | 2               | Arrays, Math               | ✅     |
+| Day 07 | -               | -                          | ⏳     |
 
 > Daily progress is available inside the **Progress** folder.
 
@@ -127,23 +130,31 @@ LeetCode-100Days-Java/
 
 # 🚀 Latest Progress
 
-## ✅ Day 05
+## ✅ Day 06
 
 ### Problems Solved
 
-- 167. Two Sum II - Input Array Is Sorted (Medium)
-- 977. Squares of a Sorted Array (Easy)
+- 238. Product of Array Except Self (Medium)
+- 319. Bulb Switcher (Medium)
 
 ### Topics
 
-- Two Pointers
 - Arrays
+- Prefix & Suffix Product
+- Math
 
-➡️ **Detailed Notes:** [Progress/Day05.md](Progress/Day05.md)
+➡️ **Detailed Notes:** [Progress/Day06.md](Progress/Day06.md)
 
 ---
 
 ### 📌 Previous Progress
+
+#### ✅ Day 05
+
+- 167. Two Sum II - Input Array Is Sorted (Medium)
+- 977. Squares of a Sorted Array (Easy)
+
+➡️ **Detailed Notes:** [Progress/Day05.md](Progress/Day05.md)
 
 #### ✅ Day 04
 
