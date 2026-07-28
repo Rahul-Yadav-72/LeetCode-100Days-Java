@@ -1,4 +1,3 @@
-package Problems.Arrays;
 
 public class MaxProductOfTwo_1462 {
 

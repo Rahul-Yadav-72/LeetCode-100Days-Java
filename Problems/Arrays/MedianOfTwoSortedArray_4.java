@@ -1,11 +1,9 @@
-package Problems.Arrays;
-
 public class MedianOfTwoSortedArray_4 {
 
     public static void main(String[] args) {
 
-        int[] nums1 = {1, 3};
-        int[] nums2 = {2};
+        int[] nums1 = { 1, 3 };
+        int[] nums2 = { 2 };
 
         int[] ans = new int[nums1.length + nums2.length];
 
