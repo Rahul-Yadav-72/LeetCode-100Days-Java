@@ -1,4 +1,4 @@
-````markdown
+
 # 🚀 100 Days of LeetCode Challenge (Java)
 
 <p align="center">
@@ -9,7 +9,7 @@
 
 Add the following section **below "About This Repository"** and **above "🎯 Challenge Goals"**.
 
-```markdown
+
 ---
 
 # 👤 Author
