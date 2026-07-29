@@ -1,3 +1,4 @@
+````markdown
 # 🚀 100 Days of LeetCode Challenge (Java)
 
 <p align="center">
@@ -5,6 +6,28 @@
 </p>
 
 ---
+
+Add the following section **below "About This Repository"** and **above "🎯 Challenge Goals"**.
+
+```markdown
+---
+
+# 👤 Author
+
+**Rahul Kumar Yadav**
+
+- 🎓 B.Tech Computer Engineering Student
+- 💻 Java Developer | DSA Enthusiast | Problem Solver
+- 🚀 Currently completing the **100 Days of LeetCode Challenge**
+- 🌱 Learning Java, Spring Boot, and Data Structures & Algorithms
+
+### Connect With Me
+
+- 💼 LinkedIn: https://www.linkedin.com/in/rahul-kumar-yadav-dev/
+- 💻 GitHub: https://github.com/Rahul-Yadav-72
+
+---
+```
 
 ## 👨‍💻 About This Repository
 
@@ -57,7 +80,8 @@ LeetCode-100Days-Java/
 │   ├── Day03.md
 │   ├── Day04.md
 │   ├── Day05.md
-│   └── Day06.md
+│   ├── Day06.md
+│   └── Day07.md
 │
 ├── Images/
 │   ├── Day01/
@@ -65,7 +89,8 @@ LeetCode-100Days-Java/
 │   ├── Day03/
 │   ├── Day04/
 │   ├── Day05/
-│   └── Day06/
+│   ├── Day06/
+│   └── Day07/
 │
 ├── README.md
 ├── LICENSE
@@ -102,11 +127,11 @@ LeetCode-100Days-Java/
 
 | Category              | Count |
 | --------------------- | ----: |
-| Total Problems Solved |    10 |
-| Easy                  |     8 |
-| Medium                |     1 |
+| Total Problems Solved |    14 |
+| Easy                  |     9 |
+| Medium                |     4 |
 | Hard                  |     1 |
-| Current Streak        | Day 5 |
+| Current Streak        | Day 7 |
 
 > Repository statistics will be updated as I progress through the challenge.
 
@@ -122,7 +147,8 @@ LeetCode-100Days-Java/
 | Day 04 | 2               | Arrays, Two Pointers, Math | ✅     |
 | Day 05 | 2               | Two Pointers               | ✅     |
 | Day 06 | 2               | Arrays, Math               | ✅     |
-| Day 07 | -               | -                          | ⏳     |
+| Day 07 | 2               | Arrays, Two Pointers       | ✅     |
+| Day 08 | -               | -                          | ⏳     |
 
 > Daily progress is available inside the **Progress** folder.
 
@@ -130,24 +156,30 @@ LeetCode-100Days-Java/
 
 # 🚀 Latest Progress
 
-## ✅ Day 06
+## ✅ Day 07
 
 ### Problems Solved
 
-- 238. Product of Array Except Self (Medium)
-- 319. Bulb Switcher (Medium)
+- 11. Container With Most Water (Medium)
+- 747. Largest Number At Least Twice of Others (Easy)
 
 ### Topics
 
+- Two Pointers
 - Arrays
-- Prefix & Suffix Product
-- Math
 
-➡️ **Detailed Notes:** [Progress/Day06.md](Progress/Day06.md)
+➡️ **Detailed Notes:** [Progress/Day07.md](Progress/Day07.md)
 
 ---
 
 ### 📌 Previous Progress
+
+#### ✅ Day 06
+
+- 238. Product of Array Except Self (Medium)
+- 319. Bulb Switcher (Medium)
+
+➡️ **Detailed Notes:** [Progress/Day06.md](Progress/Day06.md)
 
 #### ✅ Day 05
 
@@ -248,15 +280,6 @@ Share on LinkedIn
 
 - Java
 
----
-
-# 🤝 Connect With Me
-
-- 💼 LinkedIn: https://www.linkedin.com/in/rahul-kumar-yadav-dev/
-- 💻 GitHub: https://github.com/Rahul-Yadav-72
-
----
-
 ## ⭐ Support
 
 If you find this repository helpful, consider giving it a **⭐ Star**.
@@ -268,4 +291,4 @@ It motivates me to continue learning and sharing my progress.
 <p align="center">
   <b>Happy Coding! 🚀</b>
 </p>
-```
+````
