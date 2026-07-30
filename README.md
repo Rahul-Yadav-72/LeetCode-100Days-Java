@@ -1,4 +1,3 @@
-
 # 🚀 100 Days of LeetCode Challenge (Java)
 
 <p align="center">
@@ -7,8 +6,11 @@
 
 ---
 
-Add the following section **below "About This Repository"** and **above "🎯 Challenge Goals"**.
+## 👨‍💻 About This Repository
 
+Welcome to my **100 Days of LeetCode Challenge**!
+
+This repository documents my daily journey of solving LeetCode problems using **Java**. Every solution focuses on writing clean, optimized, and interview-ready code while improving my understanding of Data Structures and Algorithms.
 
 ---
 
@@ -25,15 +27,6 @@ Add the following section **below "About This Repository"** and **above "🎯 Ch
 
 - 💼 LinkedIn: https://www.linkedin.com/in/rahul-kumar-yadav-dev/
 - 💻 GitHub: https://github.com/Rahul-Yadav-72
-
----
-```
-
-## 👨‍💻 About This Repository
-
-Welcome to my **100 Days of LeetCode Challenge**!
-
-This repository documents my daily journey of solving LeetCode problems using **Java**. Every solution focuses on writing clean, optimized, and interview-ready code while improving my understanding of Data Structures and Algorithms.
 
 ---
 
@@ -81,7 +74,8 @@ LeetCode-100Days-Java/
 │   ├── Day04.md
 │   ├── Day05.md
 │   ├── Day06.md
-│   └── Day07.md
+│   ├── Day07.md
+│   └── Day08.md
 │
 ├── Images/
 │   ├── Day01/
@@ -90,7 +84,8 @@ LeetCode-100Days-Java/
 │   ├── Day04/
 │   ├── Day05/
 │   ├── Day06/
-│   └── Day07/
+│   ├── Day07/
+│   └── Day08/
 │
 ├── README.md
 ├── LICENSE
@@ -127,11 +122,11 @@ LeetCode-100Days-Java/
 
 | Category              | Count |
 | --------------------- | ----: |
-| Total Problems Solved |    14 |
-| Easy                  |     9 |
-| Medium                |     4 |
+| Total Problems Solved |    16 |
+| Easy                  |    10 |
+| Medium                |     5 |
 | Hard                  |     1 |
-| Current Streak        | Day 7 |
+| Current Streak        | Day 8 |
 
 > Repository statistics will be updated as I progress through the challenge.
 
@@ -148,7 +143,8 @@ LeetCode-100Days-Java/
 | Day 05 | 2               | Two Pointers               | ✅     |
 | Day 06 | 2               | Arrays, Math               | ✅     |
 | Day 07 | 2               | Arrays, Two Pointers       | ✅     |
-| Day 08 | -               | -                          | ⏳     |
+| Day 08 | 2               | Arrays, Greedy             | ✅     |
+| Day 09 | -               | -                          | ⏳     |
 
 > Daily progress is available inside the **Progress** folder.
 
@@ -156,23 +152,30 @@ LeetCode-100Days-Java/
 
 # 🚀 Latest Progress
 
-## ✅ Day 07
+## ✅ Day 08
 
 ### Problems Solved
 
-- 11. Container With Most Water (Medium)
-- 747. Largest Number At Least Twice of Others (Easy)
+- 1800. Maximum Ascending Subarray Sum (Easy)
+- 334. Increasing Triplet Subsequence (Medium)
 
 ### Topics
 
-- Two Pointers
 - Arrays
+- Greedy
 
-➡️ **Detailed Notes:** [Progress/Day07.md](Progress/Day07.md)
+➡️ **Detailed Notes:** [Progress/Day08.md](Progress/Day08.md)
 
 ---
 
 ### 📌 Previous Progress
+
+#### ✅ Day 07
+
+- 11. Container With Most Water (Medium)
+- 747. Largest Number At Least Twice of Others (Easy)
+
+➡️ **Detailed Notes:** [Progress/Day07.md](Progress/Day07.md)
 
 #### ✅ Day 06
 
@@ -280,6 +283,8 @@ Share on LinkedIn
 
 - Java
 
+---
+
 ## ⭐ Support
 
 If you find this repository helpful, consider giving it a **⭐ Star**.
@@ -291,4 +296,3 @@ It motivates me to continue learning and sharing my progress.
 <p align="center">
   <b>Happy Coding! 🚀</b>
 </p>
-````
