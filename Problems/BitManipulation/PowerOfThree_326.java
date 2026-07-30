@@ -1,3 +1,4 @@
+
 public class PowerOfThree_326 {
 
     // public boolean isPowerOfThree(int n) {

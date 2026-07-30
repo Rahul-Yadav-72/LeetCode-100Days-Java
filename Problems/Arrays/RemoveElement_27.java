@@ -1,3 +1,4 @@
+package Problems.Arrays;
 public class RemoveElement_27 {
     public static void main(String[] args) {
         int[] nums = {3, 2, 2, 3};

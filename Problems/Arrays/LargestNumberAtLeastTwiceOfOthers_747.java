@@ -1,4 +1,4 @@
-
+package Problems.Arrays;
 class LargestNumberAtLeastTwiceOfOthers_747 {
     public static void main(String[] args) {
         int[] nums = { 3, 6, 1, 0 };

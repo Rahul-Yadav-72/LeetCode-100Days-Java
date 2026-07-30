@@ -1,4 +1,4 @@
-
+package Problems.Arrays;
 public class MaxProductOfTwo_1462 {
 
     public static void main(String[] args) {
