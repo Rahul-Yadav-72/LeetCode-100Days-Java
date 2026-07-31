@@ -75,7 +75,8 @@ LeetCode-100Days-Java/
 │   ├── Day05.md
 │   ├── Day06.md
 │   ├── Day07.md
-│   └── Day08.md
+│   ├── Day08.md
+│   └── Day09.md
 │
 ├── Images/
 │   ├── Day01/
@@ -85,7 +86,8 @@ LeetCode-100Days-Java/
 │   ├── Day05/
 │   ├── Day06/
 │   ├── Day07/
-│   └── Day08/
+│   ├── Day08/
+│   └── Day09/
 │
 ├── README.md
 ├── LICENSE
@@ -122,11 +124,11 @@ LeetCode-100Days-Java/
 
 | Category              | Count |
 | --------------------- | ----: |
-| Total Problems Solved |    16 |
-| Easy                  |    10 |
+| Total Problems Solved |    18 |
+| Easy                  |    12 |
 | Medium                |     5 |
 | Hard                  |     1 |
-| Current Streak        | Day 8 |
+| Current Streak        | Day 9 |
 
 > Repository statistics will be updated as I progress through the challenge.
 
@@ -144,7 +146,8 @@ LeetCode-100Days-Java/
 | Day 06 | 2               | Arrays, Math               | ✅     |
 | Day 07 | 2               | Arrays, Two Pointers       | ✅     |
 | Day 08 | 2               | Arrays, Greedy             | ✅     |
-| Day 09 | -               | -                          | ⏳     |
+| Day 09 | 2               | Arrays, Binary Search      | ✅     |
+| Day 10 | -               | -                          | ⏳     |
 
 > Daily progress is available inside the **Progress** folder.
 
@@ -152,23 +155,31 @@ LeetCode-100Days-Java/
 
 # 🚀 Latest Progress
 
-## ✅ Day 08
+## ✅ Day 09
 
 ### Problems Solved
 
-- 1800. Maximum Ascending Subarray Sum (Easy)
-- 334. Increasing Triplet Subsequence (Medium)
+- 1394. Find Lucky Integer in an Array (Easy)
+- 704. Binary Search (Easy)
 
 ### Topics
 
 - Arrays
-- Greedy
+- HashMap
+- Binary Search
 
-➡️ **Detailed Notes:** [Progress/Day08.md](Progress/Day08.md)
+➡️ **Detailed Notes:** [Progress/Day09.md](Progress/Day09.md)
 
 ---
 
 ### 📌 Previous Progress
+
+#### ✅ Day 08
+
+- 1800. Maximum Ascending Subarray Sum (Easy)
+- 334. Increasing Triplet Subsequence (Medium)
+
+➡️ **Detailed Notes:** [Progress/Day08.md](Progress/Day08.md)
 
 #### ✅ Day 07
 
