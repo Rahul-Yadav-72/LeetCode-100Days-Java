@@ -76,7 +76,8 @@ LeetCode-100Days-Java/
 │   ├── Day06.md
 │   ├── Day07.md
 │   ├── Day08.md
-│   └── Day09.md
+│   ├── Day09.md
+│   └── Day10.md
 │
 ├── Images/
 │   ├── Day01/
@@ -87,7 +88,8 @@ LeetCode-100Days-Java/
 │   ├── Day06/
 │   ├── Day07/
 │   ├── Day08/
-│   └── Day09/
+│   ├── Day09/
+│   └── Day10/
 │
 ├── README.md
 ├── LICENSE
@@ -122,13 +124,13 @@ LeetCode-100Days-Java/
 
 # 📊 Repository Stats
 
-| Category              | Count |
-| --------------------- | ----: |
-| Total Problems Solved |    18 |
-| Easy                  |    12 |
-| Medium                |     5 |
-| Hard                  |     1 |
-| Current Streak        | Day 9 |
+| Category              |  Count |
+| --------------------- | -----: |
+| Total Problems Solved |     20 |
+| Easy                  |     12 |
+| Medium                |      7 |
+| Hard                  |      1 |
+| Current Streak        | Day 10 |
 
 > Repository statistics will be updated as I progress through the challenge.
 
@@ -147,7 +149,8 @@ LeetCode-100Days-Java/
 | Day 07 | 2               | Arrays, Two Pointers       | ✅     |
 | Day 08 | 2               | Arrays, Greedy             | ✅     |
 | Day 09 | 2               | Arrays, Binary Search      | ✅     |
-| Day 10 | -               | -                          | ⏳     |
+| Day 10 | 2               | Binary Search              | ✅     |
+| Day 11 | -               | -                          | ⏳     |
 
 > Daily progress is available inside the **Progress** folder.
 
@@ -155,24 +158,29 @@ LeetCode-100Days-Java/
 
 # 🚀 Latest Progress
 
-## ✅ Day 09
+## ✅ Day 10
 
 ### Problems Solved
 
-- 1394. Find Lucky Integer in an Array (Easy)
-- 704. Binary Search (Easy)
+- 33. Search in Rotated Sorted Array (Medium)
+- 34. Find First and Last Position of Element in Sorted Array (Medium)
 
 ### Topics
 
-- Arrays
-- HashMap
 - Binary Search
 
-➡️ **Detailed Notes:** [Progress/Day09.md](Progress/Day09.md)
+➡️ **Detailed Notes:** [Progress/Day10.md](Progress/Day10.md)
 
 ---
 
 ### 📌 Previous Progress
+
+#### ✅ Day 09
+
+- 1394. Find Lucky Integer in an Array (Easy)
+- 704. Binary Search (Easy)
+
+➡️ **Detailed Notes:** [Progress/Day09.md](Progress/Day09.md)
 
 #### ✅ Day 08
 
