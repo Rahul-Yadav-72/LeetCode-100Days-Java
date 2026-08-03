@@ -78,7 +78,8 @@ LeetCode-100Days-Java/
 │   ├── Day08.md
 │   ├── Day09.md
 │   ├── Day10.md
-│   └── Day11.md
+│   ├── Day11.md
+│   └── Day12.md
 │
 ├── Images/
 │   ├── Day01/
@@ -91,7 +92,8 @@ LeetCode-100Days-Java/
 │   ├── Day08/
 │   ├── Day09/
 │   ├── Day10/
-│   └── Day11/
+│   ├── Day11/
+│   └── Day12/
 │
 ├── README.md
 ├── LICENSE
@@ -128,11 +130,11 @@ LeetCode-100Days-Java/
 
 | Category              |  Count |
 | --------------------- | -----: |
-| Total Problems Solved |     22 |
-| Easy                  |     12 |
+| Total Problems Solved |     23 |
+| Easy                  |     13 |
 | Medium                |      9 |
 | Hard                  |      1 |
-| Current Streak        | Day 11 |
+| Current Streak        | Day 12 |
 
 > Repository statistics will be updated as I progress through the challenge.
 
@@ -153,7 +155,8 @@ LeetCode-100Days-Java/
 | Day 09 | 2               | Arrays, Binary Search      | ✅     |
 | Day 10 | 2               | Binary Search              | ✅     |
 | Day 11 | 2               | Binary Search              | ✅     |
-| Day 12 | -               | -                          | ⏳     |
+| Day 12 | 1               | Binary Search              | ✅     |
+| Day 13 | -               | -                          | ⏳     |
 
 > Daily progress is available inside the **Progress** folder.
 
@@ -161,22 +164,28 @@ LeetCode-100Days-Java/
 
 # 🚀 Latest Progress
 
-## ✅ Day 11
+## ✅ Day 12
 
 ### Problems Solved
 
-- 153. Find Minimum in Rotated Sorted Array (Medium)
-- 162. Find Peak Element (Medium)
+- 35. Search Insert Position (Easy)
 
 ### Topics
 
 - Binary Search
 
-➡️ **Detailed Notes:** [Progress/Day11.md](Progress/Day11.md)
+➡️ **Detailed Notes:** [Progress/Day12.md](Progress/Day12.md)
 
 ---
 
 ### 📌 Previous Progress
+
+#### ✅ Day 11
+
+- 153. Find Minimum in Rotated Sorted Array (Medium)
+- 162. Find Peak Element (Medium)
+
+➡️ **Detailed Notes:** [Progress/Day11.md](Progress/Day11.md)
 
 #### ✅ Day 10
 
