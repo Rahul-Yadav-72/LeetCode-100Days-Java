@@ -80,7 +80,8 @@ LeetCode-100Days-Java/
 │   ├── Day10.md
 │   ├── Day11.md
 │   ├── Day12.md
-│   └── Day13.md
+│   ├── Day13.md
+│   └── Day14.md
 │
 ├── Images/
 │   ├── Day01/
@@ -95,7 +96,8 @@ LeetCode-100Days-Java/
 │   ├── Day10/
 │   ├── Day11/
 │   ├── Day12/
-│   └── Day13/
+│   ├── Day13/
+│   └── Day14/
 │
 ├── README.md
 ├── LICENSE
@@ -130,13 +132,13 @@ LeetCode-100Days-Java/
 
 # 📊 Repository Stats
 
-| Category | Count |
-|----------|------:|
-| Total Problems Solved | 25 |
-| Easy | 13 |
-| Medium | 11 |
-| Hard | 1 |
-| Current Streak | Day 13 |
+| Category              |  Count |
+| --------------------- | -----: |
+| Total Problems Solved |     27 |
+| Easy                  |     14 |
+| Medium                |     11 |
+| Hard                  |      2 |
+| Current Streak        | Day 14 |
 
 > Repository statistics will be updated as I progress through the challenge.
 
@@ -144,22 +146,23 @@ LeetCode-100Days-Java/
 
 # 📅 Progress Tracker
 
-| Day | Problems Solved | Topics | Status |
-|------|----------------|-----------------------------|--------|
-| Day 01 | 2 | Bit Manipulation, Math | ✅ |
-| Day 02 | 2 | Dynamic Programming | ✅ |
-| Day 03 | 2 | Arrays | ✅ |
-| Day 04 | 2 | Arrays, Two Pointers, Math | ✅ |
-| Day 05 | 2 | Two Pointers | ✅ |
-| Day 06 | 2 | Arrays, Math | ✅ |
-| Day 07 | 2 | Arrays, Two Pointers | ✅ |
-| Day 08 | 2 | Arrays, Greedy | ✅ |
-| Day 09 | 2 | Arrays, Binary Search | ✅ |
-| Day 10 | 2 | Binary Search | ✅ |
-| Day 11 | 2 | Binary Search | ✅ |
-| Day 12 | 1 | Binary Search | ✅ |
-| Day 13 | 2 | Arrays, Dynamic Programming, Two Pointers | ✅ |
-| Day 14 | - | - | ⏳ |
+| Day    | Problems Solved | Topics                                    | Status |
+| ------ | --------------- | ----------------------------------------- | ------ |
+| Day 01 | 2               | Bit Manipulation, Math                    | ✅     |
+| Day 02 | 2               | Dynamic Programming                       | ✅     |
+| Day 03 | 2               | Arrays                                    | ✅     |
+| Day 04 | 2               | Arrays, Two Pointers, Math                | ✅     |
+| Day 05 | 2               | Two Pointers                              | ✅     |
+| Day 06 | 2               | Arrays, Math                              | ✅     |
+| Day 07 | 2               | Arrays, Two Pointers                      | ✅     |
+| Day 08 | 2               | Arrays, Greedy                            | ✅     |
+| Day 09 | 2               | Arrays, Binary Search                     | ✅     |
+| Day 10 | 2               | Binary Search                             | ✅     |
+| Day 11 | 2               | Binary Search                             | ✅     |
+| Day 12 | 1               | Binary Search                             | ✅     |
+| Day 13 | 2               | Arrays, Dynamic Programming, Two Pointers | ✅     |
+| Day 14 | 2               | Arrays, Prefix & Suffix Arrays            | ✅     |
+| Day 15 | -               | -                                         | ⏳     |
 
 > Daily progress is available inside the **Progress** folder.
 
@@ -167,24 +170,30 @@ LeetCode-100Days-Java/
 
 # 🚀 Latest Progress
 
-## ✅ Day 13
+## ✅ Day 14
 
 ### Problems Solved
 
-- 53. Maximum Subarray (Medium)
-- 75. Sort Colors (Medium)
+- 2089. Find Target Indices After Sorting Array (Easy)
+- 42. Trapping Rain Water (Hard)
 
 ### Topics
 
 - Arrays
-- Dynamic Programming
-- Two Pointers
+- Prefix & Suffix Arrays
 
-➡️ **Detailed Notes:** [Progress/Day13.md](Progress/Day13.md)
+➡️ **Detailed Notes:** [Progress/Day14.md](Progress/Day14.md)
 
 ---
 
 ### 📌 Previous Progress
+
+#### ✅ Day 13
+
+- 53. Maximum Subarray (Medium)
+- 75. Sort Colors (Medium)
+
+➡️ **Detailed Notes:** [Progress/Day13.md](Progress/Day13.md)
 
 #### ✅ Day 12
 
