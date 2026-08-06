@@ -81,7 +81,8 @@ LeetCode-100Days-Java/
 │   ├── Day11.md
 │   ├── Day12.md
 │   ├── Day13.md
-│   └── Day14.md
+│   ├── Day14.md
+│   └── Day15.md
 │
 ├── Images/
 │   ├── Day01/
@@ -97,7 +98,8 @@ LeetCode-100Days-Java/
 │   ├── Day11/
 │   ├── Day12/
 │   ├── Day13/
-│   └── Day14/
+│   ├── Day14/
+│   └── Day15/
 │
 ├── README.md
 ├── LICENSE
@@ -134,11 +136,11 @@ LeetCode-100Days-Java/
 
 | Category              |  Count |
 | --------------------- | -----: |
-| Total Problems Solved |     27 |
-| Easy                  |     14 |
-| Medium                |     11 |
+| Total Problems Solved |     29 |
+| Easy                  |     15 |
+| Medium                |     12 |
 | Hard                  |      2 |
-| Current Streak        | Day 14 |
+| Current Streak        | Day 15 |
 
 > Repository statistics will be updated as I progress through the challenge.
 
@@ -162,7 +164,8 @@ LeetCode-100Days-Java/
 | Day 12 | 1               | Binary Search                             | ✅     |
 | Day 13 | 2               | Arrays, Dynamic Programming, Two Pointers | ✅     |
 | Day 14 | 2               | Arrays, Prefix & Suffix Arrays            | ✅     |
-| Day 15 | -               | -                                         | ⏳     |
+| Day 15 | 2               | Greedy, Arrays                            | ✅     |
+| Day 16 | -               | -                                         | ⏳     |
 
 > Daily progress is available inside the **Progress** folder.
 
@@ -170,23 +173,30 @@ LeetCode-100Days-Java/
 
 # 🚀 Latest Progress
 
-## ✅ Day 14
+## ✅ Day 15
 
 ### Problems Solved
 
-- 2089. Find Target Indices After Sorting Array (Easy)
-- 42. Trapping Rain Water (Hard)
+- 179. Largest Number (Medium)
+- 2529. Maximum Count of Positive Integer and Negative Integer (Easy)
 
 ### Topics
 
+- Greedy
 - Arrays
-- Prefix & Suffix Arrays
 
-➡️ **Detailed Notes:** [Progress/Day14.md](Progress/Day14.md)
+➡️ **Detailed Notes:** [Progress/Day15.md](Progress/Day15.md)
 
 ---
 
 ### 📌 Previous Progress
+
+#### ✅ Day 14
+
+- 2089. Find Target Indices After Sorting Array (Easy)
+- 42. Trapping Rain Water (Hard)
+
+➡️ **Detailed Notes:** [Progress/Day14.md](Progress/Day14.md)
 
 #### ✅ Day 13
 
