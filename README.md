@@ -82,7 +82,8 @@ LeetCode-100Days-Java/
 │   ├── Day12.md
 │   ├── Day13.md
 │   ├── Day14.md
-│   └── Day15.md
+│   ├── Day15.md
+│   └── Day16.md
 │
 ├── Images/
 │   ├── Day01/
@@ -99,7 +100,8 @@ LeetCode-100Days-Java/
 │   ├── Day12/
 │   ├── Day13/
 │   ├── Day14/
-│   └── Day15/
+│   ├── Day15/
+│   └── Day16/
 │
 ├── README.md
 ├── LICENSE
@@ -136,11 +138,11 @@ LeetCode-100Days-Java/
 
 | Category              |  Count |
 | --------------------- | -----: |
-| Total Problems Solved |     29 |
-| Easy                  |     15 |
-| Medium                |     12 |
+| Total Problems Solved |     31 |
+| Easy                  |     16 |
+| Medium                |     13 |
 | Hard                  |      2 |
-| Current Streak        | Day 15 |
+| Current Streak        | Day 16 |
 
 > Repository statistics will be updated as I progress through the challenge.
 
@@ -165,7 +167,8 @@ LeetCode-100Days-Java/
 | Day 13 | 2               | Arrays, Dynamic Programming, Two Pointers | ✅     |
 | Day 14 | 2               | Arrays, Prefix & Suffix Arrays            | ✅     |
 | Day 15 | 2               | Greedy, Arrays                            | ✅     |
-| Day 16 | -               | -                                         | ⏳     |
+| Day 16 | 2               | Heap, Arrays                              | ✅     |
+| Day 17 | -               | -                                         | ⏳     |
 
 > Daily progress is available inside the **Progress** folder.
 
@@ -173,23 +176,30 @@ LeetCode-100Days-Java/
 
 # 🚀 Latest Progress
 
-## ✅ Day 15
+## ✅ Day 16
 
 ### Problems Solved
 
-- 179. Largest Number (Medium)
-- 2529. Maximum Count of Positive Integer and Negative Integer (Easy)
+- 215. Kth Largest Element in an Array (Medium)
+- 66. Plus One (Easy)
 
 ### Topics
 
-- Greedy
+- Heap
 - Arrays
 
-➡️ **Detailed Notes:** [Progress/Day15.md](Progress/Day15.md)
+➡️ **Detailed Notes:** [Progress/Day16.md](Progress/Day16.md)
 
 ---
 
 ### 📌 Previous Progress
+
+#### ✅ Day 15
+
+- 179. Largest Number (Medium)
+- 2529. Maximum Count of Positive Integer and Negative Integer (Easy)
+
+➡️ **Detailed Notes:** [Progress/Day15.md](Progress/Day15.md)
 
 #### ✅ Day 14
 
