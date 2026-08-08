@@ -83,7 +83,8 @@ LeetCode-100Days-Java/
 │   ├── Day13.md
 │   ├── Day14.md
 │   ├── Day15.md
-│   └── Day16.md
+│   ├── Day16.md
+│   └── Day17.md
 │
 ├── Images/
 │   ├── Day01/
@@ -101,7 +102,8 @@ LeetCode-100Days-Java/
 │   ├── Day13/
 │   ├── Day14/
 │   ├── Day15/
-│   └── Day16/
+│   ├── Day16/
+│   └── Day17/
 │
 ├── README.md
 ├── LICENSE
@@ -138,11 +140,11 @@ LeetCode-100Days-Java/
 
 | Category              |  Count |
 | --------------------- | -----: |
-| Total Problems Solved |     31 |
-| Easy                  |     16 |
-| Medium                |     13 |
+| Total Problems Solved |     33 |
+| Easy                  |     17 |
+| Medium                |     14 |
 | Hard                  |      2 |
-| Current Streak        | Day 16 |
+| Current Streak        | Day 17 |
 
 > Repository statistics will be updated as I progress through the challenge.
 
@@ -168,7 +170,8 @@ LeetCode-100Days-Java/
 | Day 14 | 2               | Arrays, Prefix & Suffix Arrays            | ✅     |
 | Day 15 | 2               | Greedy, Arrays                            | ✅     |
 | Day 16 | 2               | Heap, Arrays                              | ✅     |
-| Day 17 | -               | -                                         | ⏳     |
+| Day 17 | 2               | Arrays, Stack                             | ✅     |
+| Day 18 | -               | -                                         | ⏳     |
 
 > Daily progress is available inside the **Progress** folder.
 
@@ -176,23 +179,30 @@ LeetCode-100Days-Java/
 
 # 🚀 Latest Progress
 
-## ✅ Day 16
+## ✅ Day 17
 
 ### Problems Solved
 
-- 215. Kth Largest Element in an Array (Medium)
-- 66. Plus One (Easy)
+- 1491. Average Salary Excluding the Minimum and Maximum Salary (Easy)
+- 155. Min Stack (Medium)
 
 ### Topics
 
-- Heap
 - Arrays
+- Stack
 
-➡️ **Detailed Notes:** [Progress/Day16.md](Progress/Day16.md)
+➡️ **Detailed Notes:** [Progress/Day17.md](Progress/Day17.md)
 
 ---
 
 ### 📌 Previous Progress
+
+#### ✅ Day 16
+
+- 215. Kth Largest Element in an Array (Medium)
+- 66. Plus One (Easy)
+
+➡️ **Detailed Notes:** [Progress/Day16.md](Progress/Day16.md)
 
 #### ✅ Day 15
 
