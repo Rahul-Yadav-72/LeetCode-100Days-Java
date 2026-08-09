@@ -84,7 +84,8 @@ LeetCode-100Days-Java/
 │   ├── Day14.md
 │   ├── Day15.md
 │   ├── Day16.md
-│   └── Day17.md
+│   ├── Day17.md
+│   └── Day18.md
 │
 ├── Images/
 │   ├── Day01/
@@ -103,7 +104,8 @@ LeetCode-100Days-Java/
 │   ├── Day14/
 │   ├── Day15/
 │   ├── Day16/
-│   └── Day17/
+│   ├── Day17/
+│   └── Day18/
 │
 ├── README.md
 ├── LICENSE
@@ -140,11 +142,11 @@ LeetCode-100Days-Java/
 
 | Category              |  Count |
 | --------------------- | -----: |
-| Total Problems Solved |     33 |
-| Easy                  |     17 |
+| Total Problems Solved |     35 |
+| Easy                  |     19 |
 | Medium                |     14 |
 | Hard                  |      2 |
-| Current Streak        | Day 17 |
+| Current Streak        | Day 18 |
 
 > Repository statistics will be updated as I progress through the challenge.
 
@@ -171,7 +173,8 @@ LeetCode-100Days-Java/
 | Day 15 | 2               | Greedy, Arrays                            | ✅     |
 | Day 16 | 2               | Heap, Arrays                              | ✅     |
 | Day 17 | 2               | Arrays, Stack                             | ✅     |
-| Day 18 | -               | -                                         | ⏳     |
+| Day 18 | 2               | Stack, Queue                              | ✅     |
+| Day 19 | -               | -                                         | ⏳     |
 
 > Daily progress is available inside the **Progress** folder.
 
@@ -179,23 +182,31 @@ LeetCode-100Days-Java/
 
 # 🚀 Latest Progress
 
-## ✅ Day 17
+## ✅ Day 18
 
 ### Problems Solved
 
-- 1491. Average Salary Excluding the Minimum and Maximum Salary (Easy)
-- 155. Min Stack (Medium)
+- 225. Implement Stack Using Queues (Easy)
+- 232. Implement Queue Using Stacks (Easy)
 
 ### Topics
 
-- Arrays
 - Stack
+- Queue
+- Data Structure Design
 
-➡️ **Detailed Notes:** [Progress/Day17.md](Progress/Day17.md)
+➡️ **Detailed Notes:** [Progress/Day18.md](Progress/Day18.md)
 
 ---
 
 ### 📌 Previous Progress
+
+#### ✅ Day 17
+
+- 1491. Average Salary Excluding the Minimum and Maximum Salary (Easy)
+- 155. Min Stack (Medium)
+
+➡️ **Detailed Notes:** [Progress/Day17.md](Progress/Day17.md)
 
 #### ✅ Day 16
 
