@@ -85,7 +85,8 @@ LeetCode-100Days-Java/
 │   ├── Day15.md
 │   ├── Day16.md
 │   ├── Day17.md
-│   └── Day18.md
+│   ├── Day18.md
+│   └── Day19.md
 │
 ├── Images/
 │   ├── Day01/
@@ -105,7 +106,8 @@ LeetCode-100Days-Java/
 │   ├── Day15/
 │   ├── Day16/
 │   ├── Day17/
-│   └── Day18/
+│   ├── Day18/
+│   └── Day19/
 │
 ├── README.md
 ├── LICENSE
@@ -142,11 +144,11 @@ LeetCode-100Days-Java/
 
 | Category              |  Count |
 | --------------------- | -----: |
-| Total Problems Solved |     35 |
-| Easy                  |     19 |
-| Medium                |     14 |
+| Total Problems Solved |     37 |
+| Easy                  |     20 |
+| Medium                |     15 |
 | Hard                  |      2 |
-| Current Streak        | Day 18 |
+| Current Streak        | Day 20 |
 
 > Repository statistics will be updated as I progress through the challenge.
 
@@ -174,7 +176,8 @@ LeetCode-100Days-Java/
 | Day 16 | 2               | Heap, Arrays                              | ✅     |
 | Day 17 | 2               | Arrays, Stack                             | ✅     |
 | Day 18 | 2               | Stack, Queue                              | ✅     |
-| Day 19 | -               | -                                         | ⏳     |
+| Day 19 | 2               | HashMap, Arrays                           | ✅     |
+| Day 20 | -               | -                                         | ⏳     |
 
 > Daily progress is available inside the **Progress** folder.
 
@@ -182,24 +185,31 @@ LeetCode-100Days-Java/
 
 # 🚀 Latest Progress
 
-## ✅ Day 18
+## ✅ Day 19
 
 ### Problems Solved
 
-- 225. Implement Stack Using Queues (Easy)
-- 232. Implement Queue Using Stacks (Easy)
+- 128. Longest Consecutive Sequence (Medium)
+- 287. Find the Duplicate Number (Medium)
 
 ### Topics
 
-- Stack
-- Queue
-- Data Structure Design
+- HashMap
+- Arrays
+- Floyd's Cycle Detection
 
-➡️ **Detailed Notes:** [Progress/Day18.md](Progress/Day18.md)
+➡️ **Detailed Notes:** [Progress/Day19.md](Progress/Day19.md)
 
 ---
 
 ### 📌 Previous Progress
+
+#### ✅ Day 18
+
+- 225. Implement Stack Using Queues (Easy)
+- 232. Implement Queue Using Stacks (Easy)
+
+➡️ **Detailed Notes:** [Progress/Day18.md](Progress/Day18.md)
 
 #### ✅ Day 17
 
