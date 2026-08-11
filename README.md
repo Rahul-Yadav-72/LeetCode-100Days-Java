@@ -86,7 +86,8 @@ LeetCode-100Days-Java/
 │   ├── Day16.md
 │   ├── Day17.md
 │   ├── Day18.md
-│   └── Day19.md
+│   ├── Day19.md
+│   └── Day20.md
 │
 ├── Images/
 │   ├── Day01/
@@ -107,7 +108,8 @@ LeetCode-100Days-Java/
 │   ├── Day16/
 │   ├── Day17/
 │   ├── Day18/
-│   └── Day19/
+│   ├── Day19/
+│   └── Day20/
 │
 ├── README.md
 ├── LICENSE
@@ -144,8 +146,8 @@ LeetCode-100Days-Java/
 
 | Category              |  Count |
 | --------------------- | -----: |
-| Total Problems Solved |     37 |
-| Easy                  |     20 |
+| Total Problems Solved |     39 |
+| Easy                  |     22 |
 | Medium                |     15 |
 | Hard                  |      2 |
 | Current Streak        | Day 20 |
@@ -177,7 +179,7 @@ LeetCode-100Days-Java/
 | Day 17 | 2               | Arrays, Stack                             | ✅     |
 | Day 18 | 2               | Stack, Queue                              | ✅     |
 | Day 19 | 2               | HashMap, Arrays                           | ✅     |
-| Day 20 | -               | -                                         | ⏳     |
+| Day 20 | 2               | Heap, Arrays                              | ✅     |
 
 > Daily progress is available inside the **Progress** folder.
 
@@ -185,24 +187,31 @@ LeetCode-100Days-Java/
 
 # 🚀 Latest Progress
 
-## ✅ Day 19
+## ✅ Day 20
 
 ### Problems Solved
 
-- 128. Longest Consecutive Sequence (Medium)
-- 287. Find the Duplicate Number (Medium)
+- 1046. Last Stone Weight (Easy)
+- 724. Find Pivot Index (Easy)
 
 ### Topics
 
-- HashMap
+- Heap / Priority Queue
 - Arrays
-- Floyd's Cycle Detection
+- Prefix Sum
 
-➡️ **Detailed Notes:** [Progress/Day19.md](Progress/Day19.md)
+➡️ **Detailed Notes:** [Progress/Day20.md](Progress/Day20.md)
 
 ---
 
 ### 📌 Previous Progress
+
+#### ✅ Day 19
+
+- 128. Longest Consecutive Sequence (Medium)
+- 287. Find the Duplicate Number (Medium)
+
+➡️ **Detailed Notes:** [Progress/Day19.md](Progress/Day19.md)
 
 #### ✅ Day 18
 
