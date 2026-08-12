@@ -87,7 +87,8 @@ LeetCode-100Days-Java/
 │   ├── Day17.md
 │   ├── Day18.md
 │   ├── Day19.md
-│   └── Day20.md
+│   ├── Day20.md
+│   └── Day21.md
 │
 ├── Images/
 │   ├── Day01/
@@ -109,7 +110,8 @@ LeetCode-100Days-Java/
 │   ├── Day17/
 │   ├── Day18/
 │   ├── Day19/
-│   └── Day20/
+│   ├── Day20/
+│   └── Day21/
 │
 ├── README.md
 ├── LICENSE
@@ -146,11 +148,11 @@ LeetCode-100Days-Java/
 
 | Category              |  Count |
 | --------------------- | -----: |
-| Total Problems Solved |     39 |
-| Easy                  |     22 |
-| Medium                |     15 |
+| Total Problems Solved |     41 |
+| Easy                  |     23 |
+| Medium                |     16 |
 | Hard                  |      2 |
-| Current Streak        | Day 20 |
+| Current Streak        | Day 21 |
 
 > Repository statistics will be updated as I progress through the challenge.
 
@@ -180,12 +182,34 @@ LeetCode-100Days-Java/
 | Day 18 | 2               | Stack, Queue                              | ✅     |
 | Day 19 | 2               | HashMap, Arrays                           | ✅     |
 | Day 20 | 2               | Heap, Arrays                              | ✅     |
+| Day 21 | 2               | Arrays, String                            | ✅     |
+| Day 22 |                 |                                           |        |
 
 > Daily progress is available inside the **Progress** folder.
 
 ---
 
 # 🚀 Latest Progress
+
+## ✅ Day 21
+
+### Problems Solved
+
+- 881. Boats to Save People (Medium)
+- 58. Length of Last Word (Easy)
+
+### Topics
+
+- Two Pointers
+- Sorting
+- Greedy
+- Strings
+
+➡️ **Detailed Notes:** [Progress/Day21.md](Progress/Day21.md)
+
+---
+
+### 📌 Previous Progress
 
 ## ✅ Day 20
 
@@ -194,17 +218,7 @@ LeetCode-100Days-Java/
 - 1046. Last Stone Weight (Easy)
 - 724. Find Pivot Index (Easy)
 
-### Topics
-
-- Heap / Priority Queue
-- Arrays
-- Prefix Sum
-
 ➡️ **Detailed Notes:** [Progress/Day20.md](Progress/Day20.md)
-
----
-
-### 📌 Previous Progress
 
 #### ✅ Day 19
 
