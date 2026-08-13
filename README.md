@@ -88,7 +88,8 @@ LeetCode-100Days-Java/
 │   ├── Day18.md
 │   ├── Day19.md
 │   ├── Day20.md
-│   └── Day21.md
+│   ├── Day21.md
+│   └── Day22.md
 │
 ├── Images/
 │   ├── Day01/
@@ -111,7 +112,8 @@ LeetCode-100Days-Java/
 │   ├── Day18/
 │   ├── Day19/
 │   ├── Day20/
-│   └── Day21/
+│   ├── Day21/
+│   └── Day22/
 │
 ├── README.md
 ├── LICENSE
@@ -148,11 +150,11 @@ LeetCode-100Days-Java/
 
 | Category              |  Count |
 | --------------------- | -----: |
-| Total Problems Solved |     41 |
+| Total Problems Solved |     43 |
 | Easy                  |     23 |
-| Medium                |     16 |
+| Medium                |     18 |
 | Hard                  |      2 |
-| Current Streak        | Day 21 |
+| Current Streak        | Day 22 |
 
 > Repository statistics will be updated as I progress through the challenge.
 
@@ -183,13 +185,34 @@ LeetCode-100Days-Java/
 | Day 19 | 2               | HashMap, Arrays                           | ✅     |
 | Day 20 | 2               | Heap, Arrays                              | ✅     |
 | Day 21 | 2               | Arrays, String                            | ✅     |
-| Day 22 |                 |                                           |        |
+| Day 22 | 2               | Strings, Stack Greedy                     | ✅     |
+| Day 23 |                 |                                           |        |
 
 > Daily progress is available inside the **Progress** folder.
 
 ---
 
 # 🚀 Latest Progress
+
+## ✅ Day 22
+
+### Problems Solved
+
+- 151. Reverse Words in a String (Medium)
+- 316. Remove Duplicate Letters (Medium)
+
+### Topics
+
+- Strings
+- Stack
+- String Manipulation
+- Greedy
+
+➡️ **Detailed Notes:** [Progress/Day22.md](Progress/Day22.md)
+
+---
+
+### 📌 Previous Progress
 
 ## ✅ Day 21
 
@@ -198,18 +221,7 @@ LeetCode-100Days-Java/
 - 881. Boats to Save People (Medium)
 - 58. Length of Last Word (Easy)
 
-### Topics
-
-- Two Pointers
-- Sorting
-- Greedy
-- Strings
-
 ➡️ **Detailed Notes:** [Progress/Day21.md](Progress/Day21.md)
-
----
-
-### 📌 Previous Progress
 
 ## ✅ Day 20
 
