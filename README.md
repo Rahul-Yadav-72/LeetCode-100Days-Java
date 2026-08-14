@@ -89,7 +89,8 @@ LeetCode-100Days-Java/
 │   ├── Day19.md
 │   ├── Day20.md
 │   ├── Day21.md
-│   └── Day22.md
+│   ├── Day22.md
+│   └── Day23.md
 │
 ├── Images/
 │   ├── Day01/
@@ -113,7 +114,8 @@ LeetCode-100Days-Java/
 │   ├── Day19/
 │   ├── Day20/
 │   ├── Day21/
-│   └── Day22/
+│   ├── Day22/
+│   └── Day23/
 │
 ├── README.md
 ├── LICENSE
@@ -150,11 +152,11 @@ LeetCode-100Days-Java/
 
 | Category              |  Count |
 | --------------------- | -----: |
-| Total Problems Solved |     43 |
+| Total Problems Solved |     45 |
 | Easy                  |     23 |
-| Medium                |     18 |
+| Medium                |     20 |
 | Hard                  |      2 |
-| Current Streak        | Day 22 |
+| Current Streak        | Day 23 |
 
 > Repository statistics will be updated as I progress through the challenge.
 
@@ -186,13 +188,35 @@ LeetCode-100Days-Java/
 | Day 20 | 2               | Heap, Arrays                              | ✅     |
 | Day 21 | 2               | Arrays, String                            | ✅     |
 | Day 22 | 2               | Strings, Stack Greedy                     | ✅     |
-| Day 23 |                 |                                           |        |
+| Day 23 | 2               | Strings, Stack                            | ✅     |
+| Day 24 |                 |                                           |        |
 
 > Daily progress is available inside the **Progress** folder.
 
 ---
 
 # 🚀 Latest Progress
+
+## ✅ Day 23
+
+### Problems Solved
+
+- 394. Decode String (Medium)
+- 443. String Compression (Medium)
+
+### Topics
+
+- Strings
+- Stack
+- String Manipulation
+- StringBuilder
+- String Compression
+
+➡️ **Detailed Notes:** [Progress/Day23.md](Progress/Day23.md)
+
+---
+
+### 📌 Previous Progress
 
 ## ✅ Day 22
 
@@ -201,18 +225,7 @@ LeetCode-100Days-Java/
 - 151. Reverse Words in a String (Medium)
 - 316. Remove Duplicate Letters (Medium)
 
-### Topics
-
-- Strings
-- Stack
-- String Manipulation
-- Greedy
-
 ➡️ **Detailed Notes:** [Progress/Day22.md](Progress/Day22.md)
-
----
-
-### 📌 Previous Progress
 
 ## ✅ Day 21
 
