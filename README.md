@@ -90,7 +90,8 @@ LeetCode-100Days-Java/
 │   ├── Day20.md
 │   ├── Day21.md
 │   ├── Day22.md
-│   └── Day23.md
+│   ├── Day23.md
+│   └── Day24.md
 │
 ├── Images/
 │   ├── Day01/
@@ -115,7 +116,8 @@ LeetCode-100Days-Java/
 │   ├── Day20/
 │   ├── Day21/
 │   ├── Day22/
-│   └── Day23/
+│   ├── Day23/
+│   └── Day24/
 │
 ├── README.md
 ├── LICENSE
@@ -152,8 +154,8 @@ LeetCode-100Days-Java/
 
 | Category              |  Count |
 | --------------------- | -----: |
-| Total Problems Solved |     45 |
-| Easy                  |     23 |
+| Total Problems Solved |     47 |
+| Easy                  |     25 |
 | Medium                |     20 |
 | Hard                  |      2 |
 | Current Streak        | Day 23 |
@@ -189,13 +191,37 @@ LeetCode-100Days-Java/
 | Day 21 | 2               | Arrays, String                            | ✅     |
 | Day 22 | 2               | Strings, Stack Greedy                     | ✅     |
 | Day 23 | 2               | Strings, Stack                            | ✅     |
-| Day 24 |                 |                                           |        |
+| Day 24 | 2               | Strings, Character Counting               | ✅     |
+| Day 25 |                 |                                           |        |
 
 > Daily progress is available inside the **Progress** folder.
 
 ---
 
 # 🚀 Latest Progress
+
+## ✅ Day 24
+
+### Problems Solved
+
+- 1897. Redistribute Characters to Make All Strings Equal (Easy)
+- 1446. Consecutive Characters (Easy)
+
+### Topics
+
+- Strings
+- String Traversal
+- Character Frequency
+- Frequency Counting
+- Arrays
+- Consecutive Characters
+- Counting
+
+➡️ **Detailed Notes:** [Progress/Day24.md](Progress/Day24.md)
+
+---
+
+### 📌 Previous Progress
 
 ## ✅ Day 23
 
@@ -204,19 +230,7 @@ LeetCode-100Days-Java/
 - 394. Decode String (Medium)
 - 443. String Compression (Medium)
 
-### Topics
-
-- Strings
-- Stack
-- String Manipulation
-- StringBuilder
-- String Compression
-
 ➡️ **Detailed Notes:** [Progress/Day23.md](Progress/Day23.md)
-
----
-
-### 📌 Previous Progress
 
 ## ✅ Day 22
 
