@@ -91,7 +91,8 @@ LeetCode-100Days-Java/
 │   ├── Day21.md
 │   ├── Day22.md
 │   ├── Day23.md
-│   └── Day24.md
+│   ├── Day24.md
+│   └── Day25.md
 │
 ├── Images/
 │   ├── Day01/
@@ -117,7 +118,8 @@ LeetCode-100Days-Java/
 │   ├── Day21/
 │   ├── Day22/
 │   ├── Day23/
-│   └── Day24/
+│   ├── Day24/
+│   └── Day25/
 │
 ├── README.md
 ├── LICENSE
@@ -154,11 +156,11 @@ LeetCode-100Days-Java/
 
 | Category              |  Count |
 | --------------------- | -----: |
-| Total Problems Solved |     47 |
-| Easy                  |     25 |
+| Total Problems Solved |     49 |
+| Easy                  |     27 |
 | Medium                |     20 |
 | Hard                  |      2 |
-| Current Streak        | Day 23 |
+| Current Streak        | Day 25 |
 
 > Repository statistics will be updated as I progress through the challenge.
 
@@ -192,6 +194,7 @@ LeetCode-100Days-Java/
 | Day 22 | 2               | Strings, Stack Greedy                     | ✅     |
 | Day 23 | 2               | Strings, Stack                            | ✅     |
 | Day 24 | 2               | Strings, Character Counting               | ✅     |
+| Day 25 | 2               | Strings, Stack, Two Pointers              | ✅     |
 | Day 25 |                 |                                           |        |
 
 > Daily progress is available inside the **Progress** folder.
@@ -200,6 +203,29 @@ LeetCode-100Days-Java/
 
 # 🚀 Latest Progress
 
+## ✅ Day 25
+
+### Problems Solved
+
+- 125. Valid Palindrome (Easy)
+- 20. Valid Parentheses (Easy)
+
+### Topics
+
+- Strings
+- Two Pointers
+- Stack
+- String Traversal
+- Palindrome
+- Character Validation
+- Parentheses Matching
+
+➡️ **Detailed Notes:** [Progress/Day25.md](Progress/Day25.md)
+
+---
+
+### 📌 Previous Progress
+
 ## ✅ Day 24
 
 ### Problems Solved
@@ -207,21 +233,7 @@ LeetCode-100Days-Java/
 - 1897. Redistribute Characters to Make All Strings Equal (Easy)
 - 1446. Consecutive Characters (Easy)
 
-### Topics
-
-- Strings
-- String Traversal
-- Character Frequency
-- Frequency Counting
-- Arrays
-- Consecutive Characters
-- Counting
-
 ➡️ **Detailed Notes:** [Progress/Day24.md](Progress/Day24.md)
-
----
-
-### 📌 Previous Progress
 
 ## ✅ Day 23
 
