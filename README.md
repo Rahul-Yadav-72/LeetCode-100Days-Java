@@ -92,7 +92,9 @@ LeetCode-100Days-Java/
 │   ├── Day22.md
 │   ├── Day23.md
 │   ├── Day24.md
-│   └── Day25.md
+│   ├── Day25.md
+│   ├── Day26.md
+│   └── Day27.md
 │
 ├── Images/
 │   ├── Day01/
@@ -119,7 +121,9 @@ LeetCode-100Days-Java/
 │   ├── Day22/
 │   ├── Day23/
 │   ├── Day24/
-│   └── Day25/
+│   ├── Day25/
+│   ├── Day26/
+│   └── Day27/
 │
 ├── README.md
 ├── LICENSE
@@ -156,11 +160,11 @@ LeetCode-100Days-Java/
 
 | Category              |  Count |
 | --------------------- | -----: |
-| Total Problems Solved |     49 |
-| Easy                  |     27 |
-| Medium                |     20 |
+| Total Problems Solved |     53 |
+| Easy                  |     30 |
+| Medium                |     21 |
 | Hard                  |      2 |
-| Current Streak        | Day 25 |
+| Current Streak        | Day 27 |
 
 > Repository statistics will be updated as I progress through the challenge.
 
@@ -195,13 +199,46 @@ LeetCode-100Days-Java/
 | Day 23 | 2               | Strings, Stack                            | ✅     |
 | Day 24 | 2               | Strings, Character Counting               | ✅     |
 | Day 25 | 2               | Strings, Stack, Two Pointers              | ✅     |
-| Day 25 |                 |                                           |        |
+| Day 26 | 2               | Strings, Stack, HashMap, Greedy           | ✅     |
+| Day 27 | 2               | Matrix, Arrays, 2D Arrays                 | ✅     |
 
 > Daily progress is available inside the **Progress** folder.
 
 ---
 
 # 🚀 Latest Progress
+
+## ✅ Day 27
+
+### Problems Solved
+
+- 1572. Matrix Diagonal Sum (Easy)
+- 867. Transpose Matrix (Easy)
+
+### Topics
+
+- Matrix
+- Arrays
+- 2D Arrays
+- Matrix Traversal
+- Diagonal Traversal
+- Row-Column Indexing
+- Matrix Transpose
+
+➡️ **Detailed Notes:** [Progress/Day27.md](Progress/Day27.md)
+
+---
+
+### 📌 Previous Progress
+
+## ✅ Day 26
+
+### Problems Solved
+
+- 921. Minimum Add to Make Parentheses Valid (Medium)
+- 242. Valid Anagram (Easy)
+
+➡️ **Detailed Notes:** [Progress/Day26.md](Progress/Day26.md)
 
 ## ✅ Day 25
 
@@ -210,21 +247,7 @@ LeetCode-100Days-Java/
 - 125. Valid Palindrome (Easy)
 - 20. Valid Parentheses (Easy)
 
-### Topics
-
-- Strings
-- Two Pointers
-- Stack
-- String Traversal
-- Palindrome
-- Character Validation
-- Parentheses Matching
-
 ➡️ **Detailed Notes:** [Progress/Day25.md](Progress/Day25.md)
-
----
-
-### 📌 Previous Progress
 
 ## ✅ Day 24
 
