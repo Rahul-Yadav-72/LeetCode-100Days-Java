@@ -94,7 +94,8 @@ LeetCode-100Days-Java/
 │   ├── Day24.md
 │   ├── Day25.md
 │   ├── Day26.md
-│   └── Day27.md
+│   ├── Day27.md
+│   └── Day28.md
 │
 ├── Images/
 │   ├── Day01/
@@ -123,7 +124,8 @@ LeetCode-100Days-Java/
 │   ├── Day24/
 │   ├── Day25/
 │   ├── Day26/
-│   └── Day27/
+│   ├── Day27/
+│   └── Day28/
 │
 ├── README.md
 ├── LICENSE
@@ -160,9 +162,9 @@ LeetCode-100Days-Java/
 
 | Category              |  Count |
 | --------------------- | -----: |
-| Total Problems Solved |     53 |
+| Total Problems Solved |     55 |
 | Easy                  |     30 |
-| Medium                |     21 |
+| Medium                |     23 |
 | Hard                  |      2 |
 | Current Streak        | Day 27 |
 
@@ -201,12 +203,40 @@ LeetCode-100Days-Java/
 | Day 25 | 2               | Strings, Stack, Two Pointers              | ✅     |
 | Day 26 | 2               | Strings, Stack, HashMap, Greedy           | ✅     |
 | Day 27 | 2               | Matrix, Arrays, 2D Arrays                 | ✅     |
+| Day 28 | 2               | Matrix, Binary Search, Spiral Traversal   | ✅     |
+| Day 29 |                 |                                           |        |
+
+
 
 > Daily progress is available inside the **Progress** folder.
 
 ---
 
 # 🚀 Latest Progress
+
+## ✅ Day 28
+
+### Problems Solved
+
+- 74. Search a 2D Matrix (Medium)
+- 59. Spiral Matrix II (Medium)
+
+### Topics
+
+- Matrix
+- Arrays
+- 2D Arrays
+- Binary Search
+- Matrix Search
+- Spiral Traversal
+- Row-Column Indexing
+- Matrix Boundaries
+
+➡️ **Detailed Notes:** [Progress/Day28.md](Progress/Day28.md)
+
+---
+
+### 📌 Previous Progress
 
 ## ✅ Day 27
 
@@ -215,21 +245,7 @@ LeetCode-100Days-Java/
 - 1572. Matrix Diagonal Sum (Easy)
 - 867. Transpose Matrix (Easy)
 
-### Topics
-
-- Matrix
-- Arrays
-- 2D Arrays
-- Matrix Traversal
-- Diagonal Traversal
-- Row-Column Indexing
-- Matrix Transpose
-
 ➡️ **Detailed Notes:** [Progress/Day27.md](Progress/Day27.md)
-
----
-
-### 📌 Previous Progress
 
 ## ✅ Day 26
 
