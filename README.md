@@ -95,7 +95,9 @@ LeetCode-100Days-Java/
 │   ├── Day25.md
 │   ├── Day26.md
 │   ├── Day27.md
-│   └── Day28.md
+│   ├── Day28.md
+│   ├── Day29.md
+│   └── Day30.md
 │
 ├── Images/
 │   ├── Day01/
@@ -125,7 +127,9 @@ LeetCode-100Days-Java/
 │   ├── Day25/
 │   ├── Day26/
 │   ├── Day27/
-│   └── Day28/
+│   ├── Day28/
+│   ├── Day29/
+│   └── Day30/
 │
 ├── README.md
 ├── LICENSE
@@ -162,9 +166,9 @@ LeetCode-100Days-Java/
 
 | Category              |  Count |
 | --------------------- | -----: |
-| Total Problems Solved |     55 |
-| Easy                  |     30 |
-| Medium                |     23 |
+| Total Problems Solved |     57 |
+| Easy                  |     31 |
+| Medium                |     24 |
 | Hard                  |      2 |
 | Current Streak        | Day 27 |
 
@@ -204,7 +208,7 @@ LeetCode-100Days-Java/
 | Day 26 | 2               | Strings, Stack, HashMap, Greedy           | ✅     |
 | Day 27 | 2               | Matrix, Arrays, 2D Arrays                 | ✅     |
 | Day 28 | 2               | Matrix, Binary Search, Spiral Traversal   | ✅     |
-| Day 29 |                 |                                           |        |
+| Day 29 | 2               | Linked List, Two Pointers, Matrix,        | ✅     |
 
 
 
@@ -214,6 +218,34 @@ LeetCode-100Days-Java/
 
 # 🚀 Latest Progress
 
+## ✅ Day 29
+
+### Problems Solved
+
+- **234.** Palindrome Linked List (Easy)
+- **48.** Rotate Image (Medium)
+
+### Topics
+
+- Linked List
+- Fast & Slow Pointers
+- Two Pointers
+- Linked List Reversal
+- Palindrome
+- Matrix
+- Arrays
+- 2D Arrays
+- Matrix Transpose
+- Matrix Rotation
+- In-Place Manipulation
+- Row Reversal
+
+➡️ **Detailed Notes:** [Progress/Day29.md](Progress/Day29.md)
+
+---
+
+### 📌 Previous Progress
+
 ## ✅ Day 28
 
 ### Problems Solved
@@ -221,22 +253,7 @@ LeetCode-100Days-Java/
 - 74. Search a 2D Matrix (Medium)
 - 59. Spiral Matrix II (Medium)
 
-### Topics
-
-- Matrix
-- Arrays
-- 2D Arrays
-- Binary Search
-- Matrix Search
-- Spiral Traversal
-- Row-Column Indexing
-- Matrix Boundaries
-
 ➡️ **Detailed Notes:** [Progress/Day28.md](Progress/Day28.md)
-
----
-
-### 📌 Previous Progress
 
 ## ✅ Day 27
 
