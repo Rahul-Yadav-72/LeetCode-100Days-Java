@@ -166,11 +166,11 @@ LeetCode-100Days-Java/
 
 | Category              |  Count |
 | --------------------- | -----: |
-| Total Problems Solved |     57 |
-| Easy                  |     31 |
+| Total Problems Solved |     59 |
+| Easy                  |     33 |
 | Medium                |     24 |
 | Hard                  |      2 |
-| Current Streak        | Day 27 |
+| Current Streak        | Day 30 |
 
 > Repository statistics will be updated as I progress through the challenge.
 
@@ -209,6 +209,7 @@ LeetCode-100Days-Java/
 | Day 27 | 2               | Matrix, Arrays, 2D Arrays                 | ✅     |
 | Day 28 | 2               | Matrix, Binary Search, Spiral Traversal   | ✅     |
 | Day 29 | 2               | Linked List, Two Pointers, Matrix,        | ✅     |
+| Day 30 | 2               | Linked List, Pointer Manipulation         | ✅     |
 
 
 
@@ -218,6 +219,33 @@ LeetCode-100Days-Java/
 
 # 🚀 Latest Progress
 
+## ✅ Day 30
+
+### Problems Solved
+
+- **21.** Merge Two Sorted Lists (Easy)
+- **83.** Remove Duplicates from Sorted List (Easy)   
+
+### Topics
+
+- Linked List
+- Singly Linked List
+- Two Pointers
+- Pointer Manipulation
+- Node Traversal
+- Dummy Node
+- Linked List Merging
+- Duplicate Removal
+- Sorted Linked List
+- In-Place Manipulation
+- next Pointer
+
+➡️ **Detailed Notes:** [Progress/Day30.md](Progress/Day30.md)
+
+---
+
+### 📌 Previous Progress
+
 ## ✅ Day 29
 
 ### Problems Solved
@@ -225,26 +253,7 @@ LeetCode-100Days-Java/
 - **234.** Palindrome Linked List (Easy)
 - **48.** Rotate Image (Medium)
 
-### Topics
-
-- Linked List
-- Fast & Slow Pointers
-- Two Pointers
-- Linked List Reversal
-- Palindrome
-- Matrix
-- Arrays
-- 2D Arrays
-- Matrix Transpose
-- Matrix Rotation
-- In-Place Manipulation
-- Row Reversal
-
 ➡️ **Detailed Notes:** [Progress/Day29.md](Progress/Day29.md)
-
----
-
-### 📌 Previous Progress
 
 ## ✅ Day 28
 
