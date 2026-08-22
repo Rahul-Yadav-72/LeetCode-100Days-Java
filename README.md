@@ -97,7 +97,8 @@ LeetCode-100Days-Java/
 │   ├── Day27.md
 │   ├── Day28.md
 │   ├── Day29.md
-│   └── Day30.md
+│   ├── Day30.md
+│   └── Day31.md
 │
 ├── Images/
 │   ├── Day01/
@@ -129,7 +130,8 @@ LeetCode-100Days-Java/
 │   ├── Day27/
 │   ├── Day28/
 │   ├── Day29/
-│   └── Day30/
+│   ├── Day30/
+│   └── Day31/
 │
 ├── README.md
 ├── LICENSE
@@ -166,11 +168,11 @@ LeetCode-100Days-Java/
 
 | Category              |  Count |
 | --------------------- | -----: |
-| Total Problems Solved |     59 |
+| Total Problems Solved |     61 |
 | Easy                  |     33 |
-| Medium                |     24 |
+| Medium                |     26 |
 | Hard                  |      2 |
-| Current Streak        | Day 30 |
+| Current Streak        | Day 31 |
 
 > Repository statistics will be updated as I progress through the challenge.
 
@@ -210,8 +212,7 @@ LeetCode-100Days-Java/
 | Day 28 | 2               | Matrix, Binary Search, Spiral Traversal   | ✅     |
 | Day 29 | 2               | Linked List, Two Pointers, Matrix,        | ✅     |
 | Day 30 | 2               | Linked List, Pointer Manipulation         | ✅     |
-
-
+| Day 31 | 2               | Arrays, Linked List, Two Pointers         | ✅     |
 
 > Daily progress is available inside the **Progress** folder.
 
@@ -219,32 +220,44 @@ LeetCode-100Days-Java/
 
 # 🚀 Latest Progress
 
+## ✅ Day 31
+
+### Problems Solved
+
+- **189.** Rotate Array (Medium)
+- **2.** Add Two Numbers (Medium)
+
+### Topics
+
+- Arrays
+- Linked List
+- Singly Linked List
+- Two Pointers
+- Pointer Manipulation
+- Array Rotation
+- Array Reversal
+- In-Place Manipulation
+- Dummy Node
+- Node Traversal
+- Mathematical Operations
+- Carry Handling
+- Modulo Operation
+- Linked List Construction
+
+➡️ **Detailed Notes:** [Progress/Day31.md](Progress/Day31.md)
+
+---
+
+### 📌 Previous Progress
+
 ## ✅ Day 30
 
 ### Problems Solved
 
 - **21.** Merge Two Sorted Lists (Easy)
-- **83.** Remove Duplicates from Sorted List (Easy)   
-
-### Topics
-
-- Linked List
-- Singly Linked List
-- Two Pointers
-- Pointer Manipulation
-- Node Traversal
-- Dummy Node
-- Linked List Merging
-- Duplicate Removal
-- Sorted Linked List
-- In-Place Manipulation
-- next Pointer
+- **83.** Remove Duplicates from Sorted List (Easy)
 
 ➡️ **Detailed Notes:** [Progress/Day30.md](Progress/Day30.md)
-
----
-
-### 📌 Previous Progress
 
 ## ✅ Day 29
 
